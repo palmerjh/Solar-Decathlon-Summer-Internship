@@ -1,0 +1,99 @@
+Master_Bedroom
+
+Air changes per hour: 0.4
+
+Number of heat sources: 2
+
+Heat Source #1:
+
+	Number of time intervals in schedule of occupancy: 1
+
+		Interval #1:
+			Start: 7.0
+			End: 12.0
+
+	Average number of humans occupying room: 3.0
+
+Heat Source #2:
+
+	Number of time intervals in schedule: 1
+
+		Interval #1:
+			Start: 19.0
+			End: 22.5
+
+	Wattage: 24.0
+
+Ceiling area: 177.87
+
+Ceiling U-Value: 0.077
+
+Floor area: 177.87
+
+Floor U-Value: 0.077
+
+Number of walls: 3
+
+Wall #1:
+
+	Number of windows: 1
+
+		Window #1:
+			x-Coordinate: 0.33
+			Altitude: 0.0
+			Height: 7.0
+			Width: 4.0
+			SHGC: 0.35
+			U-Value: 0.24
+
+	Orientation: -90.0
+
+	Wall area: 171.48
+
+	Wall U-Value: 0.059
+
+	Ground reflectance: 0.1
+
+	Bottom-left corner coordinates:
+
+		x-Coordinate: 30
+		y-Coordinate: 23.5
+		z-Coordinate: 2.5
+
+Wall #2:
+
+	Number of windows: 0
+
+	Orientation: 0.0
+
+	Wall area: 99
+
+	Wall U-Value: 0.059
+
+	Ground reflectance: 0.1
+
+	Bottom-left corner coordinates:
+
+		x-Coordinate: 19.2
+		y-Coordinate: 23.5
+		z-Coordinate: 2.5
+
+Wall #3:
+
+	Number of windows: 0
+
+	Orientation: 179.99
+
+	Wall area: 99.0
+
+	Wall U-Value: 0.059
+
+	Ground reflectance: 0.1
+
+	Bottom-left corner coordinates:
+
+		x-Coordinate: 30.0
+		y-Coordinate: 40.378
+		z-Coordinate: 2.5
+
+Volume: 1543

@@ -1,0 +1,326 @@
+
+Here are the current obstructions:
+
+Number of obstructions: 12
+
+Obstruction #1:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: 0.0
+			y-Coord: 0.0
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 0.0
+			y-Coord: 0.0
+			z-Coord: 11.5
+
+		Point #3:
+			x-Coord: 19.75
+			y-Coord: 0.0
+			z-Coord: 11.5
+
+		Point #4:
+			x-Coord: 19.75
+			y-Coord: 0.0
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+
+Obstruction #2:
+
+	Number of points: 5
+
+		Point #1:
+			x-Coord: 15.978
+			y-Coord: 10.8
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 15.978
+			y-Coord: 10.8
+			z-Coord: 14.0
+
+		Point #3:
+			x-Coord: 15.978
+			y-Coord: 19.835
+			z-Coord: 16.5
+
+		Point #4:
+			x-Coord: 15.978
+			y-Coord: 23.5
+			z-Coord: 14.71
+
+		Point #5:
+			x-Coord: 15.978
+			y-Coord: 23.5
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+
+Obstruction #3:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: 10.0
+			y-Coord: 16.17
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 10.0
+			y-Coord: 16.17
+			z-Coord: 14.71
+
+		Point #3:
+			x-Coord: 0.0
+			y-Coord: 16.17
+			z-Coord: 14.71
+
+		Point #4:
+			x-Coord: 0.0
+			y-Coord: 16.17
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+
+Obstruction #4:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: 30.0
+			y-Coord: 10.8
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 30.0
+			y-Coord: 10.8
+			z-Coord: 16.5
+
+		Point #3:
+			x-Coord: 15.978
+			y-Coord: 10.8
+			z-Coord: 16.5
+
+		Point #4:
+			x-Coord: 15.978
+			y-Coord: 10.8
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+
+Obstruction #5:
+
+	Number of points: 5
+
+		Point #1:
+			x-Coord: 10.0
+			y-Coord: 23.5
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 10.0
+			y-Coord: 23.5
+			z-Coord: 14.71
+
+		Point #3:
+			x-Coord: 10.0
+			y-Coord: 19.835
+			z-Coord: 16.5
+
+		Point #4:
+			x-Coord: 10.0
+			y-Coord: 16.17
+			z-Coord: 14.71
+
+		Point #5:
+			x-Coord: 10.0
+			y-Coord: 16.17
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+
+Obstruction #6:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: 19.75
+			y-Coord: 0.0
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: 19.75
+			y-Coord: 0.0
+			z-Coord: 11.83
+
+		Point #3:
+			x-Coord: 19.75
+			y-Coord: -11.17
+			z-Coord: 11.5
+
+		Point #4:
+			x-Coord: 19.75
+			y-Coord: -11.17
+			z-Coord: 2.5
+
+	SHGC Value: 0.0
+	
+Obstruction #7:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+		Point #2:
+			x-Coord: 0.0
+			y-Coord: 0.0
+			z-Coord: 11.5
+
+		Point #3:
+			x-Coord: 19.75
+			y-Coord: 0.0
+			z-Coord: 11.5
+
+		Point #4:
+			x-Coord: 19.75
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+	SHGC Value: 0.0
+	
+Obstruction #8:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+		Point #2:
+			x-Coord: 0.0
+			y-Coord: 0.0
+			z-Coord: 11.5
+
+		Point #3:
+			x-Coord: 0
+			y-Coord: 40.378
+			z-Coord: 11.5
+
+		Point #4:
+			x-Coord: -11.17
+			y-Coord: 40.378
+			z-Coord: 9.28
+
+	SHGC Value: 0.0
+	
+Obstruction #9:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: 35
+			y-Coord: 6.7
+			z-Coord: 0
+
+		Point #2:
+			x-Coord: 35
+			y-Coord: 6.7
+			z-Coord: 11.5
+
+		Point #3:
+			x-Coord: 35
+			y-Coord: 27.6
+			z-Coord: 11.5
+
+		Point #4:
+			x-Coord: 35
+			y-Coord: 27.6
+			z-Coord: 0
+
+	SHGC Value: 0.0
+	
+Obstruction #10:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+		Point #3:
+			x-Coord: 19.75
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+		Point #4:
+			x-Coord: 19.75
+			y-Coord: -11.17
+			z-Coord: 2.5
+
+	SHGC Value: 0.5
+	
+Obstruction #11:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: -11.17
+			y-Coord: -11.17
+			z-Coord: 9.28
+
+		Point #3:
+			x-Coord: -11.17
+			y-Coord: 16.17
+			z-Coord: 9.28
+
+		Point #4:
+			x-Coord: -11.17
+			y-Coord: 16.17
+			z-Coord: 2.5
+
+	SHGC Value: 0.5
+	
+Obstruction #12:
+
+	Number of points: 4
+
+		Point #1:
+			x-Coord: -11.17
+			y-Coord: 23.5
+			z-Coord: 2.5
+
+		Point #2:
+			x-Coord: -11.17
+			y-Coord: 23.5
+			z-Coord: 9.28
+
+		Point #3:
+			x-Coord: -11.17
+			y-Coord: 40.378
+			z-Coord: 9.28
+
+		Point #4:
+			x-Coord: -11.17
+			y-Coord: 40.378
+			z-Coord: 2.5
+
+	SHGC Value: 0.5
